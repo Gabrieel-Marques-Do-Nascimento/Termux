@@ -1,4 +1,3 @@
-
 ```
 apt update && upgrade -y
 ```
@@ -19,7 +18,10 @@ termux-setup-storage
 git clone https://github.com/Anonymous-Zpt/T-root
 
 ```
+
+```
 cd T-root
+```
 
 ```
 bash install.sh
@@ -31,8 +33,4 @@ bash install.sh
 
 ```
 root
-```
-
-```
-
 ```
